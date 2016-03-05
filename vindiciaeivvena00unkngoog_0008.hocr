@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciaeivvena00unkngoog_0008.png"; bbox 0 0 3284 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2080 123 2498 232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2080 123 2498 232">
+     <span class='ocr_line' id='line_1_1' title="bbox 2080 123 2498 232; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 2080 123 2217 232; x_wconf 73' lang='grc' dir='ltr'>ΡΑ</span> <span class='ocrx_word' id='word_1_2' title='bbox 2252 127 2498 225; x_wconf 52' lang='lat' dir='ltr'>&amp;aff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3184 3786 3207 4757">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3184 3786 3207 4757">
+     <span class='ocr_line' id='line_1_2' title="bbox 3184 3786 3207 4757; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 3184 4294 3202 4757; x_wconf 54' lang='lat' dir='ltr'><em>n-—ma-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3190 4098 3203 4219; x_wconf 61' lang='lat' dir='ltr'>w</span> <span class='ocrx_word' id='word_1_5' title='bbox 3198 3974 3205 3995; x_wconf 79' lang='lat'>.—</span> <span class='ocrx_word' id='word_1_6' title='bbox 3198 3900 3205 3917; x_wconf 79' lang='grc'>..</span> <span class='ocrx_word' id='word_1_7' title='bbox 3198 3786 3207 3817; x_wconf 72' lang='grc'>..-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
